@@ -7,6 +7,10 @@ The MongoDB database schema, defined in "users.js" and "post.js," captures the s
 
 I have used Mongodb For database and Express.js for server side framework.
 
+![image](https://github.com/SreeVaishnavi18/Business-on-Bot-backend/assets/118348619/d4e0bf1c-b37c-49b8-b564-f1732117738c)
+![image](https://github.com/SreeVaishnavi18/Business-on-Bot-backend/assets/118348619/5cba1db8-a289-483b-9fc2-5f51c2112521)
+
+
 
 
 
